@@ -7,7 +7,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['simpleaite-1.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['aitesalem.onrender.com', '127.0.0.1']
 
 INSTALLED_APPS = [
     'network',
